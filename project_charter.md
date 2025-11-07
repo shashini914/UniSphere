@@ -38,21 +38,29 @@ The objectives of the UniSphere project are:
 
 ### 3.1 Work Breakdown Structure
 
-*TO BE COMPLETED IN WEEK 10*
+![Work Breakdown Structure](images/wbs.png)
 
 ### 3.2 Requirements Traceability Matrix
 
-*TO BE COMPLETED IN WEEK 10*
+### Requirements Traceability Matrix (RTM)
+
+| Req ID | Requirement | Del ID | Deliverable | Owner | Status |
+|--------|-------------|--------|-------------|--------|--------|
+| REQ01 | Authentication system allowing users to create accounts and log in | DEL01 | Secure role-based authentication | Jeeya (Back-End Dev) | In Progress |
+| REQ02 | Students must be able to browse events and view event details | DEL02 | Event browsing page & event detail pages | Shashini (Front-End Dev) | Pending |
+| REQ03 | Club admins should be able to create, edit, and delete events | DEL03 | Club admin dashboard with event management tools | Full Team | Pending |
+| REQ04 | Students must be able to RSVP to events | DEL04 | RSVP system integrated with events | Ramandeep (Database Specialist) | Pending |
+| REQ05 | Calendar displaying upcoming events | DEL05 | Integrated calendar view | Shashini (Front-End Dev) | Pending |
 
 ---
 
 ## 4. Deliverables
-- A functional web application hosted on a live server with domain and SSL.  
-- Authentication system for secure account creation, login, and role-based access.  
-- Event browsing, filtering, and details pages for students.  
-- RSVP system to track event participation.  
-- Club profile management and admin dashboard.  
-- Final tested and deployed version of UniSphere accessible to all students.  
+- **DEL01**: A functional web application hosted on a live server with domain and SSL.  
+- **DEL01**: Authentication system for secure account creation, login, and role-based access.  
+- **DEL02**: Event browsing, filtering, and details pages for students.  
+- **DEL03**: Club profile management and admin dashboard. 
+- **DEL04**: RSVP system to track event participation.  
+- **DEL05**: Final tested and deployed version of UniSphere accessible to all students.  
 
 ### 4.1 Gantt Chart
 
