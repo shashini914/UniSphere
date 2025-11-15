@@ -64,7 +64,7 @@ The objectives of the UniSphere project are:
 
 ### 4.1 Gantt Chart
 
-*TO BE COMPLETED IN LATER WORKSHOP*
+![Gantt Chart](images/gantt%20chart.png)
 
 ---
 
