@@ -70,7 +70,30 @@ The objectives of the UniSphere project are:
 
 ## 5. Preliminary Budget
 
-*TO BE COMPLETED IN LATER WORKSHOP*
+The UniSphere project follows a Scrum framework with 6 sprints, each lasting 2 weeks.
+The team consists of 3 members (Front-End Developer, Back-End Developer, Database Specialist).
+Each member works part-time with a daily burn rate based on their role.
+Fixed costs cover hosting, domain, SSL, and design tools.
+A 10% contingency reserve is included to cover unexpected risks.
+
+| **Category**           | **Description**                                                    | **Cost (CAD)** |
+|------------------------|--------------------------------------------------------------------|----------------|
+| **Personnel Costs**    |                                                                    |                |
+| Sprint Burn Rate       | Avg. $3,000 per sprint per person × 3 team members                | $9,000 / sprint |
+| Number of Sprints      | 6 sprints (2 weeks each)                                           | –              |
+| **Total Personnel Cost** | 9,000 × 6                                                        | **$54,000**    |
+|                        |                                                                    |                |
+| **Fixed Costs**        |                                                                    |                |
+| Hosting & Server Setup | Cloud hosting (e.g., AWS/Heroku), SSL certificates                | $1,200         |
+| Domain Registration    | Domain for UniSphere                                               | $40            |
+| Design Tools           | Optional Figma Pro + assets                                        | $300           |
+| Backend Tools/Plugins  | API tools, libraries, testing frameworks                           | $500           |
+| **Total Fixed Costs**  |                                                                    | **$2,040**     |
+|                        |                                                                    |                |
+| **Contingency (10%)**  | Applied on Personnel + Fixed costs                                 | **$5,604**     |
+|                        |                                                                    |                |
+| **Total Estimated Budget** | 54,000 + 2,040 + 5,604                                       | **$61,644**    |
+
 
 ---
 
