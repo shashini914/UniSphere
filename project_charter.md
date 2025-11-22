@@ -99,7 +99,23 @@ A 10% contingency reserve is included to cover unexpected risks.
 
 ## 6. Organization and Stakeholders
 
-*TO BE COMPLETED IN LATER WORKSHOP*
+### Stakeholder Analysis Matrix
+
+![Stakeholder Analysis Matrix](images/Stakeholder%20Analysis%20Matrix.png)
+
+### Communications Plan
+
+| **Information to Communicate** | **Owner** | **Target Stakeholders** | **Schedule / Frequency** | **Communication Channel** |
+|--------------------------------|-----------|--------------------------|----------------------------|-----------------------------|
+| Project Status & Milestone Progress | Project Manager | College Administration (+), Platform Admin (+) | Bi-weekly | Email Summary + Optional In-Person Meeting |
+| Sprint Progress & Development Updates | Development Team Lead | Club Executives (+), Faculty Advisors (0) | Weekly (Sprint Review) | MS Teams, GitHub Project Board |
+| Feature Releases & System Updates | Back-End Lead | Students Attending Events (+), Club Members (+) | End of each sprint | UniSphere Portal Announcements + Email |
+| System Health, Security & Maintenance Alerts | IT Department / SysAdmins | Project Manager, Platform Admin (+) | Monthly, or as needed during issues | Email + Internal Dashboard |
+| Event & Club Activity Report | Club Dashboard Lead | Club Executives (+), Faculty Advisors (0) | Monthly | UniSphere Admin Dashboard |
+| User Feedback & Issue Summary | Front-End / UX Lead | Development Team, Project Manager | Weekly | Feedback Form, GitHub Issues |
+| Accessibility & Compliance Review | Accessibility Office (+) | Project Manager, Development Team | Per major release | Email + Review Meeting |
+| Branding & Communication Guidelines | Marketing & Communications (+) | Project Manager, Club Executives | At major feature releases | Email + Shared Docs |
+
 
 ---
 
