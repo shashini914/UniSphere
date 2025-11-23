@@ -115,6 +115,7 @@ A 10% contingency reserve is included to cover unexpected risks.
 | User Feedback & Issue Summary | Front-End / UX Lead | Development Team, Project Manager | Weekly | Feedback Form, GitHub Issues |
 | Accessibility & Compliance Review | Accessibility Office | Project Manager, Development Team | Per major release | Email + Review Meeting |
 | Branding & Communication Guidelines | Marketing & Communications | Project Manager, Club Executives | At major feature releases | Email + Shared Docs |
+| Database Structure & Schema Changes (Events, Clubs, RSVP fields) | Database Specialist | Development Team, Platform Admin | As needed during development | GitHub Documentation + Team Sync |
 
 
 ---
