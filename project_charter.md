@@ -116,6 +116,9 @@ A 10% contingency reserve is included to cover unexpected risks.
 | Accessibility & Compliance Review | Accessibility Office | Project Manager, Development Team | Per major release | Email + Review Meeting |
 | Branding & Communication Guidelines | Marketing & Communications | Project Manager, Club Executives | At major feature releases | Email + Shared Docs |
 | Database Structure & Schema Changes (Events, Clubs, RSVP fields) | Database Specialist | Development Team, Platform Admin | As needed during development | GitHub Documentation + Team Sync |
+| Privacy, Data Storage & Protection Standards | Project Manager | IT Department / SysAdmins, Campus Security | Monthly or during updates | Email + Internal Documentation |
+| Data Integrity & Validation Rules for Event Submissions | Database Specialist | Club Executives, Faculty Advisors | At the start of new feature work | Email + Shared Guidelines |
+| Planned Maintenance Windows & Downtime Notifications | IT Department / SysAdmins | Students Attending Events, Club Members | Before scheduled maintenance | Portal Notification + Email Alert |
 
 
 ---
