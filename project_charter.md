@@ -125,29 +125,25 @@ A 10% contingency reserve is included to cover unexpected risks.
 
 ## 7. Risks, Assumptions, and Constraints
 
-Identified Project Risks
+### Identified Project Risks
 
 The following risks have been identified based on UniSphere’s technology stack (React, Flask, Database), project deliverables, and the timeline shown in the WBS and Gantt chart.
 
-1.Front-End & Back-End Integration Risk – React, Flask, and the database may fail to integrate smoothly, affecting event loading, RSVP handling, and real-time updates.
+1. **Front-End & Back-End Integration Risk** – React, Flask, and the database may fail to integrate smoothly, affecting event loading, RSVP handling, and real-time updates.
 
-2.Authentication & Role-Based Access Risk – Login, signup, and student/club admin/platform admin permissions may not function correctly, blocking access to required features.
+2. **Authentication & Role-Based Access Risk** – Login, signup, and student/club admin/platform admin permissions may not function correctly, blocking access to required features.
 
-3.Database Schema & Data Integrity Risk – Poor schema or inconsistent data structures may cause issues with event creation, RSVP tracking, or club profiles.
+3. **Database Schema & Data Integrity Risk** – Poor schema or inconsistent data structures may cause issues with event creation, RSVP tracking, or club profiles.
 
-4.UI/UX Delay Risk – Event browsing UI, filters, calendar integration, and responsive layout may require more time than estimated, impacting front-end delivery.
+4. **UI/UX Delay Risk** – Event browsing UI, filters, calendar integration, and responsive layout may require more time than estimated, impacting front-end delivery.
 
-5.Deployment & Hosting/SSL Risk – The deployment environment, domain linking, or SSL certification may fail, delaying the release of the final working system.
+5. **Deployment & Hosting/SSL Risk** – The deployment environment, domain linking, or SSL certification may fail, delaying the release of the final working system.
 
-6.Insufficient Testing Risk – If unit, UI, or integration testing is incomplete, bugs may be discovered late, delaying the final deployment and decreasing reliability.
+6. **Insufficient Testing Risk** – If unit, UI, or integration testing is incomplete, bugs may be discovered late, delaying the final deployment and decreasing reliability.
 
-7.Stakeholder Misalignment Risk – The needs of students, club executives, and administration may shift during the project, causing scope changes or rework.
+7. **Stakeholder Misalignment Risk** – The needs of students, club executives, and administration may shift during the project, causing scope changes or rework.
 
 ### Risk Evaluation Chart
-
-
-
-
 
 <img width="667" height="609" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/4580dfcc-c6c3-4582-9ace-af9b01803633" />
 
