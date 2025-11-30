@@ -142,3 +142,27 @@ The following risks have been identified based on UniSphere’s technology stack
 6.Insufficient Testing Risk – If unit, UI, or integration testing is incomplete, bugs may be discovered late, delaying the final deployment and decreasing reliability.
 
 7.Stakeholder Misalignment Risk – The needs of students, club executives, and administration may shift during the project, causing scope changes or rework.
+
+
+
+
+
+
+
+
+
+<img width="667" height="609" alt="Untitled Diagram drawio (4)" src="https://github.com/user-attachments/assets/4580dfcc-c6c3-4582-9ace-af9b01803633" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
