@@ -143,9 +143,7 @@ The following risks have been identified based on UniSphere’s technology stack
 
 7.Stakeholder Misalignment Risk – The needs of students, club executives, and administration may shift during the project, causing scope changes or rework.
 
-
-
-
+### Risk Evaluation Chart
 
 
 
