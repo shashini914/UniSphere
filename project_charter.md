@@ -46,7 +46,7 @@ The objectives of the UniSphere project are:
 
 | Req ID | Requirement | Del ID | Deliverable | Owner | Status |
 |--------|-------------|--------|-------------|--------|--------|
-| REQ01 | Authentication system allowing users to create accounts and log in | DEL01 | Secure role-based authentication | Jeeya (Back-End Dev) | In Progress |
+| REQ01 | Authentication system allowing users to create accounts and log in | DEL01 | Secure role-based authentication | Jeeya (Back-End Dev) | Pending |
 | REQ02 | Students must be able to browse events and view event details | DEL02 | Event browsing page & event detail pages | Shashini (Front-End Dev) | Pending |
 | REQ03 | Club admins should be able to create, edit, and delete events | DEL03 | Club admin dashboard with event management tools | Full Team | Pending |
 | REQ04 | Students must be able to RSVP to events | DEL04 | RSVP system integrated with events | Ramandeep (Database Specialist) | Pending |
@@ -64,7 +64,7 @@ The objectives of the UniSphere project are:
 
 ### 4.1 Gantt Chart
 
-![Gantt Chart](images/gantt%20chart.png)
+![GanttChart](images/GanttChart.png)
 
 ---
 
